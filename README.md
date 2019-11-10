@@ -16,6 +16,11 @@
 - Maintainable application architecture
 - Testing
 
+# Notice:
+If you run this project for the first time, you need WiFi to download the first 1000 data from internet. Then, you can use it offline.
+
+Or you can download the DoctorsModel.sqlite file, put it in the right place of the apple mobile simulator :).
+
 ### Some Screen Shots of this app
 
 - ![app icon](images/appicon.png)
@@ -30,7 +35,7 @@
 
 - ![search results](images/aftersearch.png)
 
-### Skills used in this app
+## Skills used in this app
 1. Cache image from URL
 2. Background fetch
 3. TableView
@@ -41,7 +46,7 @@
 8. Fetch data from Restful API
 9. Core data
 
-### Need to improve
+## Need to improve
 1. Pagination
 2. UnitTest
 
